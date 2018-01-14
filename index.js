@@ -2,7 +2,7 @@
 function happyHolidays (string) {
   return "Happy holidays!"
 }
-function happyHolidaysTo (string){
+function happyHolidayTo (string){
   return "Happy holidays, you!"
 }
 function holidayCountDown (string){
